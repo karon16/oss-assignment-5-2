@@ -1,0 +1,116 @@
+{
+  "books": [
+    {
+      "id": "2",
+      "title": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "year": 1960,
+      "genre": "Fiction",
+      "price": "14.232"
+    },
+    {
+      "id": "3",
+      "title": "1984",
+      "author": "George Orwell",
+      "year": 1949,
+      "genre": "Science Fiction",
+      "price": 12.99
+    },
+    {
+      "id": "4",
+      "title": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "year": 1813,
+      "genre": "Romance",
+      "price": 9.99
+    },
+    {
+      "id": "5",
+      "title": "The Hobbit",
+      "author": "J.R.R. Tolkien",
+      "year": 1937,
+      "genre": "Fantasy",
+      "price": 19.99
+    },
+    {
+      "id": "6",
+      "title": "The Catcher in the Rye",
+      "author": "J.D. Salinger",
+      "year": 1951,
+      "genre": "Fiction",
+      "price": 11.99
+    },
+    {
+      "id": "7",
+      "title": "Lord of the Flies",
+      "author": "William Golding",
+      "year": 1954,
+      "genre": "Fiction",
+      "price": 13.99
+    },
+    {
+      "id": "8",
+      "title": "The Da Vinci Code",
+      "author": "Dan Brown",
+      "year": 2003,
+      "genre": "Mystery",
+      "price": 16.99
+    },
+    {
+      "id": "9",
+      "title": "The Alchemist",
+      "author": "Paulo Coelho",
+      "year": 1988,
+      "genre": "Fiction",
+      "price": "10.93"
+    },
+    {
+      "id": "d7d784b3-d31c-44cd-b345-2df3be9eb10f",
+      "title": "Dark Matter",
+      "author": "Blake crouch",
+      "year": "2016",
+      "genre": "Fiction",
+      "price": "13.99"
+    },
+    {
+      "id": "8e828339-31a1-4a30-a44e-2d5d5cc8d136",
+      "title": "I Feel Bad About My Neck",
+      "author": "Nora Ephron",
+      "year": "2006",
+      "genre": "humour",
+      "price": "15"
+    },
+    {
+      "id": "2f98b757-d76e-4134-a50b-8b656618485a",
+      "title": "Broken Glass",
+      "author": "Helen Stevenson",
+      "year": "2009",
+      "genre": "Comedy",
+      "price": "212"
+    },
+    {
+      "id": "1732342821758",
+      "title": "My new Book",
+      "author": "Christopher",
+      "year": "2024",
+      "genre": "Drama",
+      "price": "100"
+    },
+    {
+      "id": "1732343084975",
+      "title": "Second new book",
+      "author": "Chris",
+      "year": "2025",
+      "genre": "Love",
+      "price": "122"
+    },
+    {
+      "id": "1732343269168",
+      "title": "Third book",
+      "author": "diddd",
+      "year": "12",
+      "genre": "ds",
+      "price": "1222"
+    }
+  ]
+}
